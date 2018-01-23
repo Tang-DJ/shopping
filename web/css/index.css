@@ -1,17 +1,9 @@
-ul{
-    list-style: none;
-}
+
 .starter-template {
     padding: 40px 15px;
     text-align: center;
 }
 
-.float_left{
-    float: left;
-}
-.float_right{
-    float: right;
-}
 
 .mod_help_list {
     overflow: hidden;
