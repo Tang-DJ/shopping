@@ -1,0 +1,28 @@
+ul{
+    list-style: none;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.float_left{
+    float: left;
+}
+.float_right{
+    float: right;
+}
+
+.mod_help_list {
+    overflow: hidden;
+    height: 200px
+}
+
+.mod_help_nav {
+    line-height: 22px
+}
+
+.mod_help_nav_tit {
+    margin-bottom: 5px;
+    font-size: 14px
+}
